@@ -1,1 +1,2 @@
 Este arquivo contém informações de cmd do router
+Segunda entrada de dados
